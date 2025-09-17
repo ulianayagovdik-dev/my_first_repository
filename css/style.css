@@ -1,0 +1,5 @@
+/* этот файл нужен, чтобы соединять 
+все файлы для стилей */
+@import "reset.css";
+@import "main.css";
+@import "index.css";
