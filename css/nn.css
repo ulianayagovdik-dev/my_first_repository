@@ -1,5 +1,7 @@
 h1 {
     color: rgb(43, 5, 5);
+    font-size: 5vw;
+    font-weight: 25;
 }
 .text2{
     text-decoration: underline;
