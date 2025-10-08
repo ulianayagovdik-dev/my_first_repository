@@ -96,6 +96,7 @@ blockquote {
     border-left: 1px solid rgb(0, 0, 136);
     width: 60%;
     padding: 1%;
+    font-family: "Lobster-Regular";
 }
 
 .container_img {
